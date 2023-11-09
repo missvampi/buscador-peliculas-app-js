@@ -54,3 +54,5 @@ function displayMovies(movies){
         resultContainer.appendChild(movieDiv)        
     })
 }
+
+
